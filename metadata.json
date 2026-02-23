@@ -1,0 +1,5 @@
+{
+  "name": "Hệ Thống Quản Lý Trắc Nghiệm",
+  "description": "Hệ thống quản lý học sinh, bài học, câu hỏi và tổ chức thi trắc nghiệm trực tuyến với sự hỗ trợ của AI.",
+  "requestFramePermissions": []
+}
